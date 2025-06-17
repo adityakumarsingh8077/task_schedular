@@ -1,0 +1,138 @@
+[33mcommit 55ded2ae42fb919d74df7a1417f4dbcb4fe13617[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: adityakumarsingh8077 <singhaditya8077@gmail.com>
+Date:   Wed Jun 18 00:24:49 2025 +0530
+
+    resolved confilcts
+
+[33mcommit bd02a39556ac6e287bc98333ebf0940070edd043[m
+Merge: 456bfea b319583
+Author: adityakumarsingh8077 <singhaditya8077@gmail.com>
+Date:   Tue Jun 17 23:49:39 2025 +0530
+
+    Resolved merge conflicts after pulling from origin main
+
+[33mcommit 456bfea74af664a5144052c6426ae7101af2329c[m
+Author: adityakumarsingh8077 <singhaditya8077@gmail.com>
+Date:   Tue Jun 17 23:42:29 2025 +0530
+
+    Final assignment submission: all required files
+
+[33mcommit b319583774eb62b72b9339607093166e5ff815ab[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Jun 9 21:40:49 2025 +0530
+
+    Update README.md
+
+[33mcommit f9b10a83b33d446b1dd53aa096a565b20c26cad4[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 19 18:01:26 2025 +0530
+
+    Update README.md
+
+[33mcommit 5657db40a6f51066cacd23b1cd3a5b9fd36c9bd5[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 19 16:47:32 2025 +0530
+
+    Update run-tests.yml
+
+[33mcommit e17e677ac450bc7fd7a65b804c34f2a2c1dc614c[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 19 16:37:43 2025 +0530
+
+    Update pending_subscriptions.txt
+
+[33mcommit bc6dc702349efacb0d60bd789c3f9e7d98c91dd0[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 19 16:34:36 2025 +0530
+
+    Update functions.php
+
+[33mcommit 67766b2560573f12a9786917fb37c64529b5ae62[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 19 16:31:33 2025 +0530
+
+    Update tasks.txt
+
+[33mcommit bba70f8be8a76689d02d84887d453c83945fe55b[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 19 16:31:12 2025 +0530
+
+    Update tasks.txt
+
+[33mcommit b0a811301a2bc7b30860394530c83470aa046315[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Tue May 13 15:36:26 2025 +0530
+
+    Update README.md
+
+[33mcommit 097bb6fe068ddd91c5537768d9c1ba2a8e6ff450[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Tue May 13 15:35:33 2025 +0530
+
+    Update README.md
+
+[33mcommit cb6b47438652094bde7cfd7d872840d56aff8a84[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon May 12 12:41:43 2025 +0530
+
+    Update README.md
+
+[33mcommit 5d2c330166938909424bd21e45f0f5ef772e15af[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Fri May 9 19:34:55 2025 +0530
+
+    Update README.md
+
+[33mcommit b956ce042a95e8c5ecd2ca72607e007e866e7b45[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Tue Apr 29 10:21:03 2025 +0530
+
+    Update README.md
+
+[33mcommit 0e93a5885f5ca109882ef5ec53812b2b57743dec[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 28 02:24:11 2025 +0530
+
+    Update README.md
+
+[33mcommit 570391e51cea50a7ee2c77ad9a07ddcaf07a725e[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 28 02:22:57 2025 +0530
+
+    Update README.md
+
+[33mcommit ceb0dfa1e4df41eef7bd1f1564a31311d56062c8[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 28 02:08:23 2025 +0530
+
+    Update README.md
+
+[33mcommit d423a114b1067fc5aa1e2de4d994bcba7713fb33[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 28 02:06:36 2025 +0530
+
+    Update README.md
+
+[33mcommit 88b656b54f57a90167d80511052557f14958a3cc[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 28 02:04:31 2025 +0530
+
+    Update README.md
+
+[33mcommit 31dcdaf42036c87ec4c4a5e32910a08ae37c4aab[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 28 02:02:49 2025 +0530
+
+    Update README.md
+
+[33mcommit 40dd431d517e4c6cc02ac2568d7e49e3bb753ebb[m
+Author: akash sharma <22026768+00kaku@users.noreply.github.com>
+Date:   Mon Apr 14 12:43:14 2025 +0530
+
+    Update functions.php
+
+[33mcommit f853cad32290ee297c233f13a00f6ace2b366a52[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Mar 31 12:24:36 2025 +0000
+
+    Initial commit
