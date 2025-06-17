@@ -222,7 +222,7 @@ input[type="email"]:focus {
     text-decoration: underline;
     color: #0056b3;
 }
-</sty~~le>
+</style>
 </head>
 <body>
     <div class="container">
